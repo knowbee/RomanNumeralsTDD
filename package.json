@@ -1,0 +1,13 @@
+{
+  "name": "romannumeralstdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha ./tests/*.test.js --exit"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
