@@ -38,7 +38,7 @@ describe("RomanNumerals", () => {
     expect(convertToRoman(14)).to.eql("XIV")
     done()
   })
-  it("should convert 49 to XIV", (done) => {
+  it("should convert 49 to XLIX", (done) => {
     expect(convertToRoman(49)).to.eql("XLIX")
     done()
   })
